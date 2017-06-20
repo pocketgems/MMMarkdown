@@ -1,3 +1,6 @@
 .DS_Store
 *.xcuserdatad
 build/
+**/*.approj/*.framework
+**/*.approj/configuration.json
+**/*.approj/targets
